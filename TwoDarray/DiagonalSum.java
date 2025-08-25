@@ -2,7 +2,6 @@
 public class DiagonalSum {
 
     public static void Diagonal_Sum(int[][] arr) {
-       
 
         int sum = 0;
 
