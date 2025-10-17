@@ -22,7 +22,7 @@ public class CheckPalinDromeNum {
     }
 
     public static void main(String[] args) {
-        int num = 1001;
+        int num = 10081;
         ISpalindrome(num);
 
         // System.out.println("palindrome:"+result);
